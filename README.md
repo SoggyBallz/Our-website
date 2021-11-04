@@ -1,6 +1,6 @@
 Going To Brazil
 
-DP1-2 2.Grupa
+DP2-2 2.Grupa
 
 Rolands Sapožņikovs, Kārlis Egle, Ģirts Jansons
 
