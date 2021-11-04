@@ -1,0 +1,115 @@
+body {
+  background: darkgreen;
+}
+.admin_button {
+ background-color: #6D2222;
+    height: 20vh;
+    width: 20vh;
+    left: 125vh;
+    top: 30vh;
+    position: absolute;
+    text-align: center;
+    font-size: 4vh;
+    z-index: 1;
+}
+.client_button {
+      background-color: #6D2222;
+    height: 20vh;
+    width: 20vh;
+    left: 50vh;
+    top: 30vh;
+    position: absolute;
+    text-align: center;
+    font-size: 4vh;
+    z-index: 1;
+}
+.Header {
+display: block;
+background: purple;
+size: 100%;
+height: 10vh;
+}
+.Brazil_Text {
+  font-size: 4.5vh;
+  text-align: center;
+  padding-top: 2vh;
+
+}
+.Jesus {
+margin-top: 1vh;
+position: absolute;
+width: 100vh;
+height: 85vh;
+left: 100vh;
+}
+.Tokyo {
+margin-top: 1vh;
+position: absolute;
+width: 100vh;
+height: 85vh;
+left: 0vh;
+}
+.Search {
+display: block;
+  justify-content: center;
+  align-items: center;
+  width: 33%;
+  height: 4vh;
+  border: 0.5vh solid yellow;
+  font-size: 2vh;
+
+}
+.About {
+  display: block;
+  align-items: center;
+  width: 33%;
+  height: 4vh;
+  border: 0.5vh solid yellow;
+  font-size: 2vh;
+  position: relative;
+}
+.Log_out {
+  display: block;
+  align-items: center;
+  width: 34%;
+  height: 4vh;
+  border: 0.5vh solid yellow;
+  font-size: 2vh;
+  align-self: right;
+}
+a {
+  text-decoration: none;
+}
+.Header_Buttons {
+  display: flex;
+  align-content: center;
+  size: 100%;
+  height: 4vh;
+}
+video{
+  align-content: center;
+  width: 190vh;
+  height: 95vh;
+}
+.Admin_Buttons {
+  display: flex;
+  align-content: center;
+  size: 100%;
+  height: 4vh;
+}
+.A_Log_out {
+  display: block;
+  align-items: center;
+  width: 50%;
+  height: 4vh;
+  border: 0.5vh solid yellow;
+  font-size: 2vh;
+}
+.Change {
+  display: block;
+  align-items: center;
+  width: 50%;
+  height: 4vh;
+  border: 0.5vh solid yellow;
+  font-size: 2vh;
+}
