@@ -113,3 +113,10 @@ video{
   border: 0.5vh solid yellow;
   font-size: 2vh;
 }
+.Main_text {
+  display: flex;
+  align-content: center;
+  size: 50%;
+  align-self: center;
+  height: 50vh;
+}
